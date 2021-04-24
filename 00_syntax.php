@@ -12,6 +12,16 @@
 
   <?php
   echo "Hello Folx";
+  echo "and php nerds";
+  ?>
+
+  <?php
+
+  echo '<br>';
+  echo "Sup?";
+  echo '<br>';
+  echo '<button>Press me</button>';
+
   ?>
 
 </body>
