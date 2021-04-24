@@ -24,6 +24,8 @@ echo $stress . '<br>';
 
 // Print types of the variables
 
+echo gettype($name).'<br>';
+
 // Print the whole variable
 
 // Change the value of the variable
