@@ -16,11 +16,11 @@ $stress = null;
 
 // Print the variables. Explain what is concatenation
 
-echo $name;
-echo $age;
-echo $isNonBinary;
-echo $height;
-echo $stress;
+echo $name . '<br>';
+echo $age . '<br>';
+echo $isNonBinary . '<br>';
+echo $height . '<br>';
+echo $stress . '<br>';
 
 // Print types of the variables
 
