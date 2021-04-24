@@ -4,7 +4,10 @@
 
 // Variable types
 $name = "Nue";
-$age = '28';
+$age = 28;
+
+
+
 // Declare variables
 
 // Print the variables. Explain what is concatenation
