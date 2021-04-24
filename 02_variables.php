@@ -14,9 +14,13 @@ $height = 5.6;
 $stress = null;
 
 
-
-
 // Print the variables. Explain what is concatenation
+
+echo $name;
+echo $age;
+echo $isNonBinary;
+echo $height;
+echo $stress;
 
 // Print types of the variables
 
