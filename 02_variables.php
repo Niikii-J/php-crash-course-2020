@@ -3,12 +3,15 @@
 // What is a variable
 
 // Variable types
-$name = "Nue";
-$age = 28;
-
 
 
 // Declare variables
+
+$name = "Nue";
+$age = 26;
+$isNonBinary = true;
+
+
 
 // Print the variables. Explain what is concatenation
 
