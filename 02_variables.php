@@ -33,9 +33,11 @@ echo gettype($stress) . '<br>';
 
 // Print the whole variable
 
-var_dump($name, $age, $isNonBinary, $height, $stress) . '<br>';
+$name = false;
 
 // Change the value of the variable
+
+echo gettype($name) . '<br>';
 
 // Print type of the variable
 
