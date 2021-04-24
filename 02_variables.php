@@ -24,7 +24,12 @@ echo $stress . '<br>';
 
 // Print types of the variables
 
-echo gettype($name).'<br>';
+echo gettype($name) . '<br>';
+echo gettype($age) . '<br>';
+echo gettype($isNonBinary) . '<br>';
+echo gettype($height) . '<br>';
+echo gettype($stress) . '<br>';
+
 
 // Print the whole variable
 
