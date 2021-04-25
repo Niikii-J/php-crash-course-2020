@@ -38,6 +38,7 @@ $name = false;
 // Change the value of the variable
 
 echo gettype($name) . '<br>';
+echo gettype($age) . '<br>';
 
 // Print type of the variable
 
